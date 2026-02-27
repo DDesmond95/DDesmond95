@@ -47,19 +47,39 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx,rabbitmq,postman&perline=10" />
 </p>
 
-#### 🗄️ Databases & Infrastructure
+#### 🗄️ Databases & Data Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase,docker,githubactions,gitlab,aws,azure,vercel,cloudflare,prometheus,grafana,linux,ubuntu,windows&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase&perline=10" />
 </p>
 
-#### 🤖 AI, Mobile & Creative
+#### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,androidstudio,flutter,unity,unreal,visualstudio,idea,pycharm,blender,sketchup&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=10" />
 </p>
 
-#### 🛠️ Core Tooling & Connect
+#### 📱 Mobile & Desktop Dev
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md,linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,unity,unreal,visualstudio,idea,pycharm&perline=10" />
+</p>
+
+#### ☁️ DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,aws,azure,vercel,cloudflare,prometheus,grafana,linux,ubuntu,windows&perline=10" />
+</p>
+
+#### 🎨 Creative & 3D Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,sketchup&perline=10" />
+</p>
+
+#### 🛠️ Core Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md&perline=10" />
+</p>
+
+### 🌐 Connect & Productivity
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
 </p>
 
 ### 📈 Community Health
