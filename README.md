@@ -6,6 +6,12 @@
 
 Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and **High-Fidelity Design**. I build systems that are as powerful as they are beautiful.
 
+<p align="left">
+  <a href="https://ddesmond95.github.io">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-1E272E?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### � Projects & Work
@@ -53,8 +59,8 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and **
 
 | **Core Metrics** | **Live Status** |
 | :--- | :--- |
-| ![Followers](https://img.shields.io/github/followers/DDesmond95?style=flat-square&color=636E72) | ![Website](https://img.shields.io/website?url=https://ddesmond95.github.io&style=flat-square&label=Live%20Site) |
-| ![Stars](https://img.shields.io/github/stars/DDesmond95/DDesmond95?style=flat-square&color=636E72) | ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/ddesmond95.github.io?style=flat-square&label=Site%20Update) |
+| ![Followers](https://img.shields.io/github/followers/DDesmond95?style=flat-square&color=636E72) | [![Website](https://img.shields.io/website?url=https://ddesmond95.github.io&style=flat-square&label=Live%20Site)](https://ddesmond95.github.io) |
+| ![Stars](https://img.shields.io/github/stars/DDesmond95/DDesmond95?style=flat-square&color=636E72) | [![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/ddesmond95.github.io?style=flat-square&label=Site%20Update)](https://github.com/DDesmond95/ddesmond95.github.io) |
 | ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/DDesmond95?style=flat-square&label=Profile%20Update&color=636E72) | ![Top Language](https://img.shields.io/github/languages/top/DDesmond95/ddesmond95.github.io?style=flat-square) |
 | ![Repo Size](https://img.shields.io/github/repo-size/DDesmond95/DDesmond95?style=flat-square&color=636E72) | ![License](https://img.shields.io/github/license/DDesmond95/ddesmond95.github.io?style=flat-square) |
 
