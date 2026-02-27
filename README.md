@@ -4,113 +4,82 @@
 
 # 👋 Hi there, I'm Desmond
 
-Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and high-fidelity design.
+Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and **High-Fidelity Design**. I build systems that are as powerful as they are beautiful.
 
 ---
 
-### 🛠️ Projects
+### � Projects & Work
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=2,21,22,26&text=Featured%20Projects&fontSize=50&fontColor=1E272E" alt="Featured Projects">
 </p>
 
-*   **[Docker Stack GPU](https://github.com/DDesmond95/docker-stack-gpu)**: Optimized GPU resource management for Docker.
-*   **[TTS Project](https://github.com/DDesmond95/TTS)**: Advanced text-to-speech implementation.
+- 🐳 **[Docker Stack GPU](https://github.com/DDesmond95/docker-stack-gpu)** — *Optimized GPU resource management for high-performance Docker clusters.*
+- 🗣️ **[TTS Project](https://github.com/DDesmond95/TTS)** — *Pushing the boundaries of natural-sounding speech synthesis.*
 
 ---
 
-*Design components powered by [Capsule Render](https://github.com/kyechan99/capsule-render)*
+### 💻 Deep Dive: Tech Stack
 
-### 📫 Connect with me
+#### 🧠 Languages & Logic
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,cs,kotlin,dart,bash&perline=10" />
 
-<p align="left">
-  <a href="https://github.com/DDesmond95/DDesmond95/issues"><img src="https://img.shields.io/badge/Open%20Issue-4E5B31?style=for-the-badge&logo=github&logoColor=white" alt="Open Issue"></a>
-  <a href="https://github.com/DDesmond95/DDesmond95/discussions"><img src="https://img.shields.io/badge/Join%20Discussion-13547A?style=for-the-badge&logo=github&logoColor=white" alt="Discussion"></a>
-</p>
+#### 🎨 Frontend Craft
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,threejs,d3,html,css,tailwind,bootstrap,jquery,vuetify,svg&perline=10" />
+
+#### ⚙️ Systems & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx,rabbitmq,postman&perline=10" />
+
+#### 🗄️ Architecture & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase,docker,githubactions,gitlab,aws,azure,vercel,cloudflare,prometheus,grafana,linux,ubuntu,windows&perline=10" />
+
+#### 🤖 AI, Mobile & 3D
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,androidstudio,flutter,unity,unreal,visualstudio,idea,pycharm,blender,sketchup&perline=10" />
+
+#### 🛠️ Professional Toolset
+<img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md&perline=10" />
 
 ---
 
-### 💻 Tech Stack & Tools
-
-#### 🧠 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,cs,kotlin,dart,bash&perline=10" />
-</p>
-
-#### 🎨 Frontend & UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,threejs,d3,html,css,tailwind,bootstrap,jquery,vuetify,svg&perline=10" />
-</p>
-
-#### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx,rabbitmq,postman&perline=10" />
-</p>
-
-#### 🗄️ Databases & Data Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase&perline=10" />
-</p>
-
-#### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=10" />
-</p>
-
-#### 📱 Mobile & Desktop Dev
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,unity,unreal,visualstudio,idea,pycharm&perline=10" />
-</p>
-
-#### ☁️ DevOps & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,aws,azure,vercel,cloudflare,prometheus,grafana,linux,ubuntu,windows&perline=10" />
-</p>
-
-#### 🎨 Creative & 3D Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,sketchup&perline=10" />
-</p>
-
-#### 🛠️ Core Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md&perline=10" />
-</p>
-
-### 🌐 Connect & Productivity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
-</p>
-
-### 💹 Analytics & Activity
+### 💹 Vital Signs & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DDesmond95&theme=onedark&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=DDesmond95&theme=onedark&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDesmond95&theme=react-dark&hide_border=true&area=true" width="48%" />
 </p>
 
 ---
 
 ### 🏥 Repository Health
 
-| **Profile Stats** | **Portfolio Status** |
+| **Core Metrics** | **Live Status** |
 | :--- | :--- |
-| ![Followers](https://img.shields.io/github/followers/DDesmond95?style=flat-square) | ![Website](https://img.shields.io/website?url=https://ddesmond95.github.io&style=flat-square) |
-| ![Stars](https://img.shields.io/github/stars/DDesmond95/DDesmond95?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/ddesmond95.github.io?style=flat-square) |
-| ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/DDesmond95?style=flat-square) | ![Top Language](https://img.shields.io/github/languages/top/DDesmond95/ddesmond95.github.io?style=flat-square) |
-| ![Repo Size](https://img.shields.io/github/repo-size/DDesmond95/DDesmond95?style=flat-square) | ![License](https://img.shields.io/github/license/DDesmond95/ddesmond95.github.io?style=flat-square) |
+| ![Followers](https://img.shields.io/github/followers/DDesmond95?style=flat-square&color=636E72) | ![Website](https://img.shields.io/website?url=https://ddesmond95.github.io&style=flat-square&label=Live%20Site) |
+| ![Stars](https://img.shields.io/github/stars/DDesmond95/DDesmond95?style=flat-square&color=636E72) | ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/ddesmond95.github.io?style=flat-square&label=Site%20Update) |
+| ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/DDesmond95?style=flat-square&label=Profile%20Update&color=636E72) | ![Top Language](https://img.shields.io/github/languages/top/DDesmond95/ddesmond95.github.io?style=flat-square) |
+| ![Repo Size](https://img.shields.io/github/repo-size/DDesmond95/DDesmond95?style=flat-square&color=636E72) | ![License](https://img.shields.io/github/license/DDesmond95/ddesmond95.github.io?style=flat-square) |
 
 ---
 
-### 📈 Community Health
+### 🌐 Connect & Community
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/DDesmond95/DDesmond95?color=4E5B31&label=Open%20Issues&style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/discussions/DDesmond95/DDesmond95?color=13547A&label=Discussions&style=flat-square" alt="Discussions">
-  <img src="https://komarev.com/ghpvc/?username=DDesmond95&label=Profile%20Views&color=636E72&style=flat-square" alt="Visitor Counter">
+  <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DDesmond95/DDesmond95/issues"><img src="https://img.shields.io/badge/Open%20Issue-4E5B31?style=for-the-badge&logo=github&logoColor=white" alt="Open Issue"></a>
+  <a href="https://github.com/DDesmond95/DDesmond95/discussions"><img src="https://img.shields.io/badge/Join%20Discussion-13547A?style=for-the-badge&logo=github&logoColor=white" alt="Discussion"></a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DDesmond95&label=Profile%20Views&color=636E72&style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,14,30&section=footer&reversal=true" alt="Footer">
 </p>
+
+<p align="center"><i>Design components powered by <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a>. Released under the <a href="./LICENSE">MIT License</a>.</i></p>
