@@ -44,8 +44,7 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and **
 ### 💹 Vital Signs & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DDesmond95&theme=onedark&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDesmond95&theme=react-dark&hide_border=true&area=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=DDesmond95&theme=onedark&hide_border=true" />
 </p>
 
 ---
