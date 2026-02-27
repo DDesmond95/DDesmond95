@@ -32,8 +32,34 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
 
 ### 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,python,js,html,css,git,github,vscode,powershell,bash,pycharm" alt="Tech Stack" />
+#### 🧠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,cs,kotlin,dart,bash&perline=10" />
+</p>
+
+#### 🎨 Frontend & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,threejs,d3,html,css,tailwind,bootstrap,jquery,vuetify,svg&perline=10" />
+</p>
+
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx,rabbitmq,postman&perline=10" />
+</p>
+
+#### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase,docker,githubactions,gitlab,aws,azure,vercel,cloudflare,prometheus,grafana,linux,ubuntu,windows&perline=10" />
+</p>
+
+#### 🤖 AI, Mobile & Creative
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,androidstudio,flutter,unity,unreal,visualstudio,idea,pycharm,blender,sketchup&perline=10" />
+</p>
+
+#### 🛠️ Core Tooling & Connect
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md,linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
 </p>
 
 ### 📈 Community Health
