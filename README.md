@@ -30,11 +30,14 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DDesmond95&show_icons=true&theme=omni&hide_border=true&bg_color=1E272E&title_color=F8B195&icon_color=C06C84&text_color=B2BEC3" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDesmond95&layout=compact&theme=omni&hide_border=true&bg_color=1E272E&title_color=F8B195&text_color=B2BEC3" alt="Top Languages" height="150">
+  <img src="https://github-profile-trophy.vercel.app/?username=DDesmond95&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDesmond95&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
