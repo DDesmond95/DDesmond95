@@ -82,6 +82,25 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
   <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,discord,twitter,instagram,gmail,notion,obsidian&perline=10" />
 </p>
 
+### 💹 Analytics & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DDesmond95&theme=onedark&hide_border=true" alt="Contribution Streak" />
+</p>
+
+---
+
+### 🏥 Repository Health
+
+| **Profile Stats** | **Portfolio Status** |
+| :--- | :--- |
+| ![Followers](https://img.shields.io/github/followers/DDesmond95?style=flat-square) | ![Website](https://img.shields.io/website?url=https://ddesmond95.github.io&style=flat-square) |
+| ![Stars](https://img.shields.io/github/stars/DDesmond95/DDesmond95?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/ddesmond95.github.io?style=flat-square) |
+| ![Last Commit](https://img.shields.io/github/last-commit/DDesmond95/DDesmond95?style=flat-square) | ![Top Language](https://img.shields.io/github/languages/top/DDesmond95/ddesmond95.github.io?style=flat-square) |
+| ![Repo Size](https://img.shields.io/github/repo-size/DDesmond95/DDesmond95?style=flat-square) | ![License](https://img.shields.io/github/license/DDesmond95/ddesmond95.github.io?style=flat-square) |
+
+---
+
 ### 📈 Community Health
 
 <p align="center">
