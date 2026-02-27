@@ -30,18 +30,18 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
 
 ---
 
-### 🏆 Achievements & Activity
+### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DDesmond95&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,python,js,html,css,git,github,vscode,powershell,bash,pycharm" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDesmond95&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### 📈 Community Health
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DDesmond95&label=Profile%20Views&color=13547A&style=flat-square" alt="Visitor Counter">
+  <img src="https://img.shields.io/github/issues/DDesmond95/DDesmond95?color=4E5B31&label=Open%20Issues&style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/discussions/DDesmond95/DDesmond95?color=13547A&label=Discussions&style=flat-square" alt="Discussions">
+  <img src="https://komarev.com/ghpvc/?username=DDesmond95&label=Profile%20Views&color=636E72&style=flat-square" alt="Visitor Counter">
 </p>
 
 ---
