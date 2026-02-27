@@ -30,6 +30,19 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and hi
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DDesmond95&show_icons=true&theme=omni&hide_border=true&bg_color=1E272E&title_color=F8B195&icon_color=C06C84&text_color=B2BEC3" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDesmond95&layout=compact&theme=omni&hide_border=true&bg_color=1E272E&title_color=F8B195&text_color=B2BEC3" alt="Top Languages" height="150">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DDesmond95&label=Profile%20Views&color=13547A&style=flat-square" alt="Visitor Counter">
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,14,30&section=footer&reversal=true" alt="Footer">
 </p>
