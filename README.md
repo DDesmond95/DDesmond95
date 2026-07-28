@@ -45,6 +45,18 @@ Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and **
 #### 🛠️ Professional Toolset
 <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,npm,md&perline=10" />
 
+### ⚖️ Technical & Creative Curations
+
+I believe in high-performance, cost-effective, and open-source-first workflows. My stack is carefully curated to balance architectural freedom with professional output.
+
+*   **[Adopted Core Stack](ADOPTED.md)**: My actively used production tools.
+*   **[Evaluated Alternatives](EVALUATED.md)**: Technical decisions and legacy observations.
+
+#### 🔭 Quick Preview
+- **✅ Development**: Python, TypeScript, Next.js, Docker
+- **✅ Creative**: DaVinci Resolve, Affinity, Blender
+- **✅ Specialized**: ComfyUI, LMMS, VRoid/Warudo
+
 ---
 
 ### 💹 Vital Signs & Analytics
